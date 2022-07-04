@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Acturis_1", "Acturis_1\Acturis_1.csproj", "{F5C9F173-4FE5-40B5-89AF-1496D68449CF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestActuris", "TestActuris\TestActuris.csproj", "{8A05D7F1-D56C-4875-A85B-B3D82E55981B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5C9F173-4FE5-40B5-89AF-1496D68449CF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5C9F173-4FE5-40B5-89AF-1496D68449CF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5C9F173-4FE5-40B5-89AF-1496D68449CF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5C9F173-4FE5-40B5-89AF-1496D68449CF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8A05D7F1-D56C-4875-A85B-B3D82E55981B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A05D7F1-D56C-4875-A85B-B3D82E55981B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A05D7F1-D56C-4875-A85B-B3D82E55981B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A05D7F1-D56C-4875-A85B-B3D82E55981B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C584A91E-D610-4537-9B0D-96EBBEEE62D2}
+	EndGlobalSection
+EndGlobal
